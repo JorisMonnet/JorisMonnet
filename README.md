@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **JorisMonnet/JorisMonnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently studying at He-Arc in Switzerland
+- 🔭 I’m currently studying at He-Arc in Switzerland and UTBM in France
 - 📫 How to reach me: https://www.linkedin.com/in/joris-monnet-69898419b/
 - 😄 Pronouns: He/Him
 --------------------------------------------------------------------------------
