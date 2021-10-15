@@ -3,7 +3,7 @@
 <!--
 **JorisMonnet/JorisMonnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently studying at He-Arc in Switzerland and UTBM in France
+- 🔭 I studied at He-Arc in Switzerland and UTBM in France (Bachelor)
 --------------------------------------------------------------------------------
 <img align="center" src="https://img.shields.io/github/followers/jorismonnet?style=social" alt="jorismonnet" />
 
