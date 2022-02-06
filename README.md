@@ -3,8 +3,6 @@
 <!--
 **JorisMonnet/JorisMonnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I studied at He-Arc in Switzerland and UTBM in France (Bachelor)
---------------------------------------------------------------------------------
 <img align="center" src="https://img.shields.io/github/followers/jorismonnet?style=social" alt="jorismonnet" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorismonnet&layout=compact&langs_count=15" alt="most used languages" />
