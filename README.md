@@ -1,5 +1,5 @@
 ### Hi 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorismonnet&layout=compact&hide=jupyter&langs_count=20" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorismonnet&layout=compact&hide=jupyter%20notebook&langs_count=20" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jorismonnet&show_icons=true" alt="jorismonnet stats" />
 
